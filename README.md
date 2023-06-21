@@ -61,17 +61,16 @@
                 src="https://img.icons8.com/3d-fluency/94/github.png"
                 alt="https://github.com/VivekGhalout" width="40px"/>
         </a>
-    </p>
-     <h2><a href="https://vivekghalout.github.io">🌍 | Portfolio </a></h2>
+   </p>
     <h2>❤ Views and Followers :</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/VivekGhalout/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=VivekGhalout" >
     </a>
-    
     <a href="https://github.com/VivekGhalout?tab=followers">
         <img src="https://img.shields.io/github/followers/VivekGhalout?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
+     <h2><a href="https://vivekghalout.github.io">🌍 | Portfolio </a></h2>
    
     
 
