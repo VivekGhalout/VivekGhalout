@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/github/followers/VivekGhalout?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://vivekghalout.github.io/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://vivekghalout.github.io">🌍 | Portfolio </a></h2>
     
 
 <!--
