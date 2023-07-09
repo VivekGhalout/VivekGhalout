@@ -13,7 +13,7 @@
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VivekGhalout&theme=onedark" alt="vishalll069" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VivekGhalout&theme=onedark" alt="Vivek" /></a> </p>
 
 ## 👨‍💻 TECH STACK :
 
@@ -41,11 +41,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=VivekGhalout&theme=neon&border_radius=2.7&show_icons=true" alt="Bharat-Shaw" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=VivekGhalout&theme=neon&border_radius=2.7&show_icons=true" alt="Vivek" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGhalout&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Bharat-Shaw" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGhalout&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Vivek" />
   
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGhalout&theme=neon&border_radius=2.7" alt="Bharat-Shaw" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGhalout&theme=neon&border_radius=2.7" alt="Vivek" />
   
 </div>
 
@@ -75,7 +75,7 @@
     
 
 <!--
-**Bharat-Shaw/Bharat-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vivek/Vivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
